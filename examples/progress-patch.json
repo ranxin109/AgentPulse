@@ -1,0 +1,8 @@
+{
+  "status": "active",
+  "current_problem": "正在执行示例修改",
+  "phase_updates": [
+    {"id": "p1", "status": "completed", "progress": 100},
+    {"id": "p2", "status": "current", "progress": 25, "note": "已完成可验证的第一部分"}
+  ]
+}

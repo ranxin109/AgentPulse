@@ -1,0 +1,8 @@
+{
+  "status": "completed",
+  "current_problem": "示例工作已结束，实际结果应由 Agent 填写",
+  "phase_updates": [
+    {"id": "p1", "status": "completed", "progress": 100},
+    {"id": "p2", "status": "completed", "progress": 100}
+  ]
+}
