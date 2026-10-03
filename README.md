@@ -1,5 +1,7 @@
 # AgentPulse
 
+[简体中文](README.md) | [English](README.en.md)
+
 <img src="assets/app-icon.png" width="72" alt="AgentPulse icon">
 
 面向 AI Agent 的桌面任务进度追踪工具，让用户直观看清任务做到哪一步、当前正在处理什么，以及是否需要确认或授权。将多个 Agent 的任务集中展示，提供分阶段进度、耗时和长时间未更新提醒，减少反复追问与切换对话。数据本地保存，不自动上传。
